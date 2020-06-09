@@ -1,2 +1,2 @@
-# golang
+# Golang
 Este repositorio es una introducción al lenguaje de programación Golang
