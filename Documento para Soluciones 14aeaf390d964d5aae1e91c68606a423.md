@@ -20,3 +20,9 @@ El siguiente listado específica los beneficios de esta solución:
 4. Beneficio, debe ser cuantificable y mostrar claramente el beneficio de la implementación de la solución.
 
 ### Tecnología
+
+🔨 Para configurar la implementación de los mejorees sistemas.
+
+🎡 Desarrollar mejoras para las soluciones internas
+
+[ ks](https://www.notion.so/5cfe037715314b89a185908931e92b66)
